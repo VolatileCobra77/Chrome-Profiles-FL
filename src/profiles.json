@@ -1,0 +1,26 @@
+[
+    {
+        "Title": "Main",
+        "SubTitle": "nathan.fransham@gmail.com",
+        "IcoPath": "Images/app.png",
+        "JsonRPCAction": {
+            "method": "open_profile",
+            "parameters": [
+                "Default"
+            ],
+            "dontHideAfterAction": false
+        }
+    },
+    {
+        "Title": "School",
+        "SubTitle": "nathan.fransham@stu.ocsb.ca",
+        "IcoPath": "Images/app.png",
+        "JsonRPCAction": {
+            "method": "open_profile",
+            "parameters": [
+                "Profile 1"
+            ],
+            "dontHideAfterAction": false
+        }
+    }
+]

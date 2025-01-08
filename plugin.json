@@ -1,0 +1,12 @@
+{
+  "ID": "a1b2c3d4e5f678901234567890abcdef",
+  "ActionKeyword": "chrome",
+  "Name": "Chrome Profile Opener",
+  "Description": "A simple FlowLauncher plugin to Open chrome accounts.",
+  "Author": "Nathan Fransham",
+  "Version": "1.0.0",
+  "Language": "python",
+  "Website": "https://www.mrpickle.ca",
+  "ExecuteFileName": "src/main.py",
+  "IcoPath": "Images/app.png"
+}
